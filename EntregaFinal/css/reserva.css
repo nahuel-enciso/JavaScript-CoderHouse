@@ -1,0 +1,106 @@
+body{
+    background-color:lightblue;
+}
+
+.contenedor{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.table{
+    margin-top: 1rem;
+    width: 95%;
+    
+}
+
+form{
+    padding:2rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.form-select{
+    margin-bottom: 1rem;
+}
+
+.btn-primary{
+    margin: 1rem;
+}
+
+.columna1{
+    width: 15%;
+}
+
+.columna2, .columna3{
+    width: 45%;
+}
+
+.contendorTabla{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.botones{
+    display: flex;
+}
+
+.eliminar, .modificar{
+    width: 25px;
+    height: 25px;
+    background-color: transparent;
+    border: none;
+}
+
+.contendorEncontra{
+background: #013BBB;
+background: linear-gradient(315deg, #A2EAEF,#013BBB);
+background-size: cover;
+background-position: center;
+}
+
+.titulosEncontra{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:white;
+}
+
+.card1{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+
+
+.card-seccion3{
+    height: 330px;
+    width: 300px;
+    background-color: rgb(182, 181, 181);
+    justify-self: center;
+    align-self: center;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.pseccion3{
+    text-align: center;
+}
+.imgseccion3{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%
+}
+
+

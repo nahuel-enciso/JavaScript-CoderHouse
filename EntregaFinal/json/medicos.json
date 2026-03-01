@@ -1,0 +1,146 @@
+[
+	{
+	"Especialidad": "Cardiología",
+	"Nombre": "Dr. Alsina, Mario",  	
+	"Horario": "Lunes: 08:00 a 10:00",
+	"Imagen": "../images/medicos/1.jpeg"
+	},
+	{
+	"Especialidad": "Cardiología",
+	"Nombre": "Dr. Bello, Lautaro",  	
+	"Horario": "Martes 17:00 a 20:00",
+	"Imagen": "../images/medicos/2.jpg"
+	},
+	{
+	"Especialidad": "Cardiología",
+	"Nombre": "Dr. Cabeza Fuente, Luis",  	
+	"Horario": "Miercoles 12:00 a 15:00",
+	"Imagen": "../images/medicos/3.jpg"
+	},
+	{
+	"Especialidad": "Traumatología",
+	"Nombre": "Dr. Campoy, Gabriel", 	
+	"Horario": "Viernes 08:00 a 12:00",
+	"Imagen": "../images/medicos/4.jpg"
+	},
+	{
+	"Especialidad": "Traumatología",
+	"Nombre": "Dra. Camusso, Juana",  	
+	"Horario": "Martes: 18:00 a 20:00",
+	"Imagen": "../images/medicos/5.jpg"
+	},
+	{
+	"Especialidad": "Traumatología",
+	"Nombre": "Dra. Case, Guillermina",  	
+	"Horario": "Miercoles: 14:00 a 17:00",
+	"Imagen": "../images/medicos/6.jpg"
+	},
+	{
+	"Especialidad": "Pediatría",
+	"Nombre": "Dr. David, José María",  	
+	"Horario": "Jueves 17:00 a 20:00",
+	"Imagen": "../images/medicos/7.jpg"
+	},
+	{
+	"Especialidad": "Pediatría",
+	"Nombre": "Dr. Helguera, Luciano",  	
+	"Horario": "Miercoles 13:00 a 16:00",
+	"Imagen": "../images/medicos/8.jpg"
+	},
+	{
+	"Especialidad": "Pediatría",
+	"Nombre": "Dr. Cella, Antonio",  	
+	"Horario": "Lunes: 08:00 a 10:00",
+	"Imagen": "../images/medicos/9.jpg"
+	},
+	{
+	"Especialidad": "Oftamología",
+	"Nombre": "Dr. Mallie, Carlos",  	
+	"Horario": "Viernes: 10:00 a 12:00",
+	"Imagen": "../images/medicos/10.jpg"
+	},
+		{
+	"Especialidad": "Oftamología",
+	"Nombre": "Dr. Mansur, Flavio",  	
+	"Horario": "Martes: 8:00 a 11:00",
+	"Imagen": "../images/medicos/11.jpg"
+	},
+	{
+	"Especialidad": "Oftamología",
+	"Nombre": "Dr. Marinacci, Tomas",  	
+	"Horario": "Martes 18:00 a 21:00",
+	"Imagen": "../images/medicos/12.jpg"
+	},
+	{
+	"Especialidad": "Oncología",
+	"Nombre": "Dr. Montaío, Claudio",  	
+	"Horario": "Miercoles 12:00 a 17:00",
+	"Imagen": "../images/medicos/13.jpg"
+	},
+	{
+	"Especialidad": "Oncología",
+	"Nombre": "Dr. Campoy, Gabriel",  	
+	"Horario": "Viernes 08:00 a 12:00",
+	"Imagen": "../images/medicos/14.jpg"
+	},
+	{
+	"Especialidad": "Oncología",
+	"Nombre": "Dr. Mera, Mario",  	
+	"Horario": "Lunes: 10:00 a 14:00",
+	"Imagen": "../images/medicos/15.jpg"
+	},
+	{
+	"Especialidad": "Gastroenterología",
+	"Nombre": "Dra. Padula, Agustina",  	
+	"Horario": "lunes 13:00 a 16:00",
+	"Imagen": "../images/medicos/16.jpg"
+	},
+	{
+	"Especialidad": "Gastroenterología",
+	"Nombre": "Dra. Paz, Nora",  	
+	"Horario": "Martes: 08:00 a 10:00",
+	"Imagen": "../images/medicos/17.jpg"
+	},
+	{
+	"Especialidad": "Gastroenterología",
+	"Nombre": "Dra. Quiroga, Susana",  	
+	"Horario": "Viernes: 18:00 a 21:00",
+	"Imagen": "../images/medicos/18.jpg"
+	},
+	{
+	"Especialidad": "Infectología",
+	"Nombre": "Dra. Rojas, Paola",  	
+	"Horario": "Miercoles: 10:00 a 12:00",
+	"Imagen": "../images/medicos/19.jpg"
+	},
+	{
+	"Especialidad": "Infectología",
+	"Nombre": "Dra. Ruíz, Gabriela",  	
+	"Horario": "Jueves 13:00 a 17:00",
+	"Imagen": "../images/medicos/20.jpg"
+	},
+	{
+	"Especialidad": "Infectología",
+	"Nombre": "Dr. Padula, Agustina",  	
+	"Horario": "lunes 13:00 a 16:00",
+	"Imagen": "../images/medicos/21.jpg"
+	},
+	{
+	"Especialidad": "Guardía",
+	"Nombre": "Dr. Viana, Bernardo",  	
+	"Horario": "L/V: 08:00 a 14:00",
+	"Imagen": "../images/medicos/22.jpg"
+	},
+	{
+	"Especialidad": "Guardía",
+	"Nombre": "Dr. Villa, Luis",  	
+	"Horario": "L/V: 14:00 a 22:00",
+	"Imagen": "../images/medicos/23.jpg"
+	},
+	{
+	"Especialidad": "Guardía",
+	"Nombre": "Dr. Villanueva, Sergio",  	
+	"Horario": "L/V: 14:00 a 22:00",
+	"Imagen": "../images/medicos/24.jpg"
+	}
+]

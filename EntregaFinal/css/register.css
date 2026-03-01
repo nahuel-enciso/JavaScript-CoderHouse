@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../images/registro.jpg) no-repeat center top;
+    background-size: cover;
+    font-family: sans-serif;
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+.signup{
+    background: url(../images/signup.jpg) no-repeat center top;
+    background-size: cover;
+}
+
+form{
+    width: 550px;
+    height: 550px;
+    background-color:lightblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2rem;
+}
+
+h1{
+    text-align: center;
+}
+
+.logo{
+    margin-top: 1rem;
+    width: 300px;
+    height: 300px;
+    border-radius: 1rem;
+}
+
+.logoRegister{
+    margin-top: 1rem;
+    width: 200px;
+    height: 200px;
+    border-radius: 1rem;
+}
+
+div input[type="email"]{
+    width: 90%;
+}
+
+div input[type="password"]{
+    width: 77%;
+    margin-left: 17px;
+}
+
+div input[type="text"]{
+    width: 84%;
+    margin-left: 6px;
+}
